@@ -1,0 +1,5 @@
+<res>
+   <item name="gameui/GiftBagBanner.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameui/img_dizuo.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameui" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
